@@ -1,3 +1,3 @@
 # this is alx zero git project
 
-awesome
+we now have a new branch update_script
